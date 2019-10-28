@@ -1,0 +1,5 @@
+﻿  OTNIEL.cpp
+D:\Project Programming\Visual Studio\OTNIEL\OTNIEL\OTNIEL.cpp(126,7): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\OTNIEL\OTNIEL\OTNIEL.cpp(150,8): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\OTNIEL\OTNIEL\OTNIEL.cpp(174,7): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  OTNIEL.vcxproj -> D:\Project Programming\Visual Studio\OTNIEL\Debug\OTNIEL.exe
